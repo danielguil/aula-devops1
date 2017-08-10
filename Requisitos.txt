@@ -1,0 +1,13 @@
+			Solicitação Site Series
+
+
+1º Analisar 5 series preferida de cada membro para colocar em um site.
+
+2º O site deve conter Pagina unica com todas as informações de cada membro
+a pagina sera chamada de index.html
+
+3º Particularidade da pagina. 
+A pagina devera conter uma index com o nome de cada membro do grupo.
+quando clicar no nome do membro ira trazer a informação contida.
+
+OBS: como se fosse um menu com o nome de cada membro.
